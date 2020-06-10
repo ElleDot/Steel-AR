@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="industrial_composite" size="1.000000 0.562500" />
+    <ImageTarget name="Workshop_02" size="1.000000 1.414516" />
+    <ImageTarget name="Former_Kenyons_Precision_Grindings_Factory" size="1.000000 0.750000" />
+    <ImageTarget name="Cannon_Brewery" size="1.000000 0.666991" />
+    <ImageTarget name="alpaca" size="1.000000 1.414516" />
+    <ImageTarget name="chrome" size="0.300000 0.300000" />
+    <ImageTarget name="peugeot" size="0.300000 0.175000" />
+  </Tracking>
+</QCARConfig>

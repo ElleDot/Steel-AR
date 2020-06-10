@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 7b2f74afac9434aabb269e32226f311b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1
+    100002: 1_2
+    100004: 1_3
+    100006: a
+    100008: are
+    100010: e
+    100012: e_2
+    100014: e_3
+    100016: e_4
+    100018: g
+    100020: h
+    100022: h_2
+    100024: i
+    100026: MoText
+    100028: n
+    100030: o
+    100032: o_2
+    100034: ours
+    100036: r
+    100038: r_2
+    100040: r_3
+    100042: s
+    100044: s_2
+    100046: s_3
+    100048: streets
+    100050: streets_2
+    100052: t
+    100054: t_2
+    100056: t_3
+    100058: t_4
+    100060: t_5
+    100062: the
+    100064: Tonight
+    100066: //RootNode
+    100068: Tonight_2
+    100070: u
+    400000: 1
+    400002: 1_2
+    400004: 1_3
+    400006: a
+    400008: are
+    400010: e
+    400012: e_2
+    400014: e_3
+    400016: e_4
+    400018: g
+    400020: h
+    400022: h_2
+    400024: i
+    400026: MoText
+    400028: n
+    400030: o
+    400032: o_2
+    400034: ours
+    400036: r
+    400038: r_2
+    400040: r_3
+    400042: s
+    400044: s_2
+    400046: s_3
+    400048: streets
+    400050: streets_2
+    400052: t
+    400054: t_2
+    400056: t_3
+    400058: t_4
+    400060: t_5
+    400062: the
+    400064: Tonight
+    400066: //RootNode
+    400068: Tonight_2
+    400070: u
+    2100000: s.1
+    2100002: s
+    2100004: t
+    2300000: a
+    2300002: e
+    2300004: e_2
+    2300006: e_3
+    2300008: e_4
+    2300010: g
+    2300012: h
+    2300014: h_2
+    2300016: i
+    2300018: n
+    2300020: o
+    2300022: o_2
+    2300024: r
+    2300026: r_2
+    2300028: r_3
+    2300030: s
+    2300032: s_2
+    2300034: s_3
+    2300036: t
+    2300038: t_2
+    2300040: t_3
+    2300042: t_4
+    2300044: t_5
+    2300046: u
+    3300000: a
+    3300002: e
+    3300004: e_2
+    3300006: e_3
+    3300008: e_4
+    3300010: g
+    3300012: h
+    3300014: h_2
+    3300016: i
+    3300018: n
+    3300020: o
+    3300022: o_2
+    3300024: r
+    3300026: r_2
+    3300028: r_3
+    3300030: s
+    3300032: s_2
+    3300034: s_3
+    3300036: t
+    3300038: t_2
+    3300040: t_3
+    3300042: t_4
+    3300044: t_5
+    3300046: u
+    4300000: a
+    4300002: r
+    4300004: e
+    4300006: o
+    4300008: u
+    4300010: r_2
+    4300012: s
+    4300014: t
+    4300016: h
+    4300018: e_2
+    4300020: s_2
+    4300022: t_2
+    4300024: r_3
+    4300026: e_3
+    4300028: e_4
+    4300030: t_3
+    4300032: s_3
+    4300034: t_4
+    4300036: o_2
+    4300038: n
+    4300040: i
+    4300042: g
+    4300044: h_2
+    4300046: t_5
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: s
+    second: {fileID: 2100000, guid: 814be2db9b09c41eaafc7687992ea5f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: s.1
+    second: {fileID: 2100000, guid: 834722d06fa0d4e29af36ea0e38f03eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t
+    second: {fileID: 2100000, guid: 63703852a2b5742058716603764200a7, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MoTextSurface_Color
+    second: {fileID: 2800000, guid: b4198d09ac37b4b248d7338f06e40427, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: TonightSurface_Color
+    second: {fileID: 2800000, guid: db116f385e0764f23a53a227b92c17d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: streetsSurface_Color
+    second: {fileID: 2800000, guid: 896d4cc3bf1ca4071a215c6514701605, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
