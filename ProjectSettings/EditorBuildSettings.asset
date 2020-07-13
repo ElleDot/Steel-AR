@@ -14,4 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/AR Scene.unity
     guid: 1447b727e57024aac882e3e7564e10b4
+  - enabled: 1
+    path: Assets/Scenes/ModelList.unity
+    guid: fe7e42a8b2530489f9c9bd3a48c25d17
+  - enabled: 1
+    path: Assets/Scenes/ModelViewer.unity
+    guid: ed7d12ad7c4254df1a4bc7323f7a9784
   m_configObjects: {}

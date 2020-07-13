@@ -1,10 +1,11 @@
 fileFormatVersion: 2
-guid: 6e80553f5f63f4523beb06a0272b8eda
+guid: 08693afa52ad34895b690a0c4fa5aa77
 TextureImporter:
   fileIDToRecycleName:
-    21300000: StartButton_Normal
-    21300002: StartButton_Active
-    21300004: StartButton_Pressed
+    21300000: cornerButtons_0
+    21300002: cornerButtons_1
+    21300004: cornerButtons_2
+    21300006: cornerButtons_3
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -35,7 +36,7 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: -1
-    aniso: 1
+    aniso: -1
     mipBias: -100
     wrapU: 1
     wrapV: 1
@@ -109,13 +110,53 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: StartButton_Normal
+      name: cornerButtons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da12e9477acd045cc8c718d4d718e159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cornerButtons_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd6f5a9fef774784a87e8025856e947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cornerButtons_2
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 768
-        height: 542
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -123,19 +164,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 57e8e9e232f29436691a3587d18bda51
+      spriteID: 12651aa5ad75b4efc95aaeb21372d6d1
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: StartButton_Active
+      name: cornerButtons_3
       rect:
         serializedVersion: 2
-        x: 768
+        x: 96
         y: 0
-        width: 768
-        height: 542
+        width: 96
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -143,27 +184,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2218fa2c608204efc8e02b68dfffd5f0
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: StartButton_Pressed
-      rect:
-        serializedVersion: 2
-        x: 1536
-        y: 0
-        width: 768
-        height: 542
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 61accec4f86904cb79d1ae0d173a7816
+      spriteID: 1bed00b01654449c7b11b5625dcb3975
       vertices: []
       indices: 
       edges: []
@@ -171,7 +192,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 81b6998acdc264935be8e52fbf4df988
+    spriteID: 868b97371e7564be488c1743f37dd98e
     vertices: []
     indices: 
     edges: []
