@@ -1,0 +1,944 @@
+fileFormatVersion: 2
+guid: cc06107fcb5f640ed90feded0df56bed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: main small spoon001
+    100004: main small spoon002
+    100006: main small spoon003
+    100008: main small spoon004
+    100010: main small spoon005
+    100012: main small spoon006
+    100014: main small spoon007
+    100016: main small spoon008
+    100018: main small spoon009
+    100020: main small spoon010
+    100022: main small spoon011
+    100024: main small spoon012
+    100026: main small spoon013
+    100028: main small spoon014
+    100030: main small spoon015
+    100032: main small spoon016
+    100034: main small spoon017
+    100036: main small spoon018
+    100038: main small spoon019
+    100040: main small spoon020
+    100042: main small spoon021
+    100044: main small spoon022
+    100046: main small spoon023
+    100048: main small spoon024
+    100050: main small spoon025
+    100052: main small spoon026
+    100054: main small spoon027
+    100056: main small spoon028
+    100058: main small spoon029
+    100060: main small spoon030
+    100062: main small spoon031
+    100064: main small spoon032
+    100066: main small spoon033
+    100068: main small spoon034
+    100070: main small spoon035
+    100072: main small spoon036
+    100074: main small spoon037
+    100076: main small spoon038
+    100078: main small spoon039
+    100080: main small spoon040
+    100082: main small spoon041
+    100084: main small spoon042
+    100086: main small spoon043
+    100088: main small spoon044
+    100090: Sphere006
+    100092: Sphere007
+    100094: Sphere008
+    100096: Sphere009
+    100098: Sphere010
+    100100: Sphere011
+    100102: Sphere012
+    100104: Sphere013
+    100106: Sphere014
+    100108: Sphere015
+    100110: Sphere016
+    100112: Sphere017
+    100114: Sphere018
+    100116: Sphere019
+    100118: Sphere020
+    100120: Sphere021
+    100122: Sphere022
+    100124: Sphere023
+    100126: Sphere024
+    100128: Sphere025
+    100130: Sphere026
+    100132: Sphere027
+    100134: Sphere028
+    100136: Sphere029
+    100138: Sphere030
+    100140: Sphere031
+    100142: Sphere032
+    100144: Sphere033
+    100146: Sphere034
+    100148: Sphere035
+    100150: Sphere036
+    100152: Sphere037
+    100154: Sphere038
+    100156: Sphere039
+    100158: Sphere040
+    100160: Sphere041
+    100162: Sphere042
+    100164: Sphere043
+    100166: Sphere044
+    100168: Sphere045
+    100170: Sphere046
+    100172: Sphere047
+    100174: Sphere048
+    100176: Sphere049
+    100178: Sphere050
+    100180: Sphere051
+    100182: Sphere052
+    100184: Sphere053
+    100186: Sphere054
+    100188: Sphere055
+    100190: Sphere056
+    100192: Sphere057
+    100194: Sphere058
+    100196: Sphere059
+    100198: Sphere060
+    100200: Sphere061
+    100202: Sphere062
+    100204: Sphere063
+    100206: Sphere064
+    100208: Sphere065
+    100210: Sphere066
+    100212: Sphere067
+    100214: Sphere068
+    100216: Sphere069
+    100218: Sphere070
+    100220: Sphere071
+    100222: Sphere072
+    100224: Sphere073
+    100226: Sphere074
+    100228: Sphere075
+    100230: Sphere076
+    100232: Sphere077
+    100234: Sphere078
+    100236: Sphere079
+    100238: Sphere080
+    100240: Sphere081
+    100242: Sphere082
+    100244: Sphere083
+    100246: Sphere084
+    100248: Sphere085
+    100250: Sphere086
+    100252: Sphere087
+    100254: Sphere088
+    100256: Sphere089
+    100258: Sphere090
+    100260: Sphere091
+    100262: Sphere092
+    100264: Sphere093
+    100266: Sphere094
+    100268: Sphere095
+    100270: Sphere096
+    100272: Sphere097
+    100274: Sphere098
+    100276: Sphere099
+    100278: Sphere100
+    100280: Sphere101
+    100282: Sphere102
+    100284: Sphere103
+    100286: Sphere104
+    100288: Sphere105
+    100290: Sphere106
+    100292: Sphere107
+    100294: Sphere108
+    100296: Sphere109
+    100298: Sphere110
+    100300: Sphere111
+    100302: Sphere112
+    100304: Sphere113
+    100306: Sphere114
+    100308: Sphere115
+    100310: Sphere116
+    100312: Sphere117
+    100314: Sphere118
+    100316: Sphere119
+    100318: Sphere120
+    100320: Sphere121
+    100322: Sphere122
+    100324: Sphere123
+    100326: Sphere124
+    100328: Sphere125
+    100330: Sphere126
+    100332: Sphere127
+    100334: Sphere128
+    100336: Sphere129
+    100338: Sphere130
+    100340: Sphere131
+    400000: //RootNode
+    400002: main small spoon001
+    400004: main small spoon002
+    400006: main small spoon003
+    400008: main small spoon004
+    400010: main small spoon005
+    400012: main small spoon006
+    400014: main small spoon007
+    400016: main small spoon008
+    400018: main small spoon009
+    400020: main small spoon010
+    400022: main small spoon011
+    400024: main small spoon012
+    400026: main small spoon013
+    400028: main small spoon014
+    400030: main small spoon015
+    400032: main small spoon016
+    400034: main small spoon017
+    400036: main small spoon018
+    400038: main small spoon019
+    400040: main small spoon020
+    400042: main small spoon021
+    400044: main small spoon022
+    400046: main small spoon023
+    400048: main small spoon024
+    400050: main small spoon025
+    400052: main small spoon026
+    400054: main small spoon027
+    400056: main small spoon028
+    400058: main small spoon029
+    400060: main small spoon030
+    400062: main small spoon031
+    400064: main small spoon032
+    400066: main small spoon033
+    400068: main small spoon034
+    400070: main small spoon035
+    400072: main small spoon036
+    400074: main small spoon037
+    400076: main small spoon038
+    400078: main small spoon039
+    400080: main small spoon040
+    400082: main small spoon041
+    400084: main small spoon042
+    400086: main small spoon043
+    400088: main small spoon044
+    400090: Sphere006
+    400092: Sphere007
+    400094: Sphere008
+    400096: Sphere009
+    400098: Sphere010
+    400100: Sphere011
+    400102: Sphere012
+    400104: Sphere013
+    400106: Sphere014
+    400108: Sphere015
+    400110: Sphere016
+    400112: Sphere017
+    400114: Sphere018
+    400116: Sphere019
+    400118: Sphere020
+    400120: Sphere021
+    400122: Sphere022
+    400124: Sphere023
+    400126: Sphere024
+    400128: Sphere025
+    400130: Sphere026
+    400132: Sphere027
+    400134: Sphere028
+    400136: Sphere029
+    400138: Sphere030
+    400140: Sphere031
+    400142: Sphere032
+    400144: Sphere033
+    400146: Sphere034
+    400148: Sphere035
+    400150: Sphere036
+    400152: Sphere037
+    400154: Sphere038
+    400156: Sphere039
+    400158: Sphere040
+    400160: Sphere041
+    400162: Sphere042
+    400164: Sphere043
+    400166: Sphere044
+    400168: Sphere045
+    400170: Sphere046
+    400172: Sphere047
+    400174: Sphere048
+    400176: Sphere049
+    400178: Sphere050
+    400180: Sphere051
+    400182: Sphere052
+    400184: Sphere053
+    400186: Sphere054
+    400188: Sphere055
+    400190: Sphere056
+    400192: Sphere057
+    400194: Sphere058
+    400196: Sphere059
+    400198: Sphere060
+    400200: Sphere061
+    400202: Sphere062
+    400204: Sphere063
+    400206: Sphere064
+    400208: Sphere065
+    400210: Sphere066
+    400212: Sphere067
+    400214: Sphere068
+    400216: Sphere069
+    400218: Sphere070
+    400220: Sphere071
+    400222: Sphere072
+    400224: Sphere073
+    400226: Sphere074
+    400228: Sphere075
+    400230: Sphere076
+    400232: Sphere077
+    400234: Sphere078
+    400236: Sphere079
+    400238: Sphere080
+    400240: Sphere081
+    400242: Sphere082
+    400244: Sphere083
+    400246: Sphere084
+    400248: Sphere085
+    400250: Sphere086
+    400252: Sphere087
+    400254: Sphere088
+    400256: Sphere089
+    400258: Sphere090
+    400260: Sphere091
+    400262: Sphere092
+    400264: Sphere093
+    400266: Sphere094
+    400268: Sphere095
+    400270: Sphere096
+    400272: Sphere097
+    400274: Sphere098
+    400276: Sphere099
+    400278: Sphere100
+    400280: Sphere101
+    400282: Sphere102
+    400284: Sphere103
+    400286: Sphere104
+    400288: Sphere105
+    400290: Sphere106
+    400292: Sphere107
+    400294: Sphere108
+    400296: Sphere109
+    400298: Sphere110
+    400300: Sphere111
+    400302: Sphere112
+    400304: Sphere113
+    400306: Sphere114
+    400308: Sphere115
+    400310: Sphere116
+    400312: Sphere117
+    400314: Sphere118
+    400316: Sphere119
+    400318: Sphere120
+    400320: Sphere121
+    400322: Sphere122
+    400324: Sphere123
+    400326: Sphere124
+    400328: Sphere125
+    400330: Sphere126
+    400332: Sphere127
+    400334: Sphere128
+    400336: Sphere129
+    400338: Sphere130
+    400340: Sphere131
+    2100000: No Name
+    2300000: main small spoon001
+    2300002: main small spoon002
+    2300004: main small spoon003
+    2300006: main small spoon004
+    2300008: main small spoon005
+    2300010: main small spoon006
+    2300012: main small spoon007
+    2300014: main small spoon008
+    2300016: main small spoon009
+    2300018: main small spoon010
+    2300020: main small spoon011
+    2300022: main small spoon012
+    2300024: main small spoon013
+    2300026: main small spoon014
+    2300028: main small spoon015
+    2300030: main small spoon016
+    2300032: main small spoon017
+    2300034: main small spoon018
+    2300036: main small spoon019
+    2300038: main small spoon020
+    2300040: main small spoon021
+    2300042: main small spoon022
+    2300044: main small spoon023
+    2300046: main small spoon024
+    2300048: main small spoon025
+    2300050: main small spoon026
+    2300052: main small spoon027
+    2300054: main small spoon028
+    2300056: main small spoon029
+    2300058: main small spoon030
+    2300060: main small spoon031
+    2300062: main small spoon032
+    2300064: main small spoon033
+    2300066: main small spoon034
+    2300068: main small spoon035
+    2300070: main small spoon036
+    2300072: main small spoon037
+    2300074: main small spoon038
+    2300076: main small spoon039
+    2300078: main small spoon040
+    2300080: main small spoon041
+    2300082: main small spoon042
+    2300084: main small spoon043
+    2300086: main small spoon044
+    2300088: Sphere006
+    2300090: Sphere007
+    2300092: Sphere008
+    2300094: Sphere009
+    2300096: Sphere010
+    2300098: Sphere011
+    2300100: Sphere012
+    2300102: Sphere013
+    2300104: Sphere014
+    2300106: Sphere015
+    2300108: Sphere016
+    2300110: Sphere017
+    2300112: Sphere018
+    2300114: Sphere019
+    2300116: Sphere020
+    2300118: Sphere021
+    2300120: Sphere022
+    2300122: Sphere023
+    2300124: Sphere024
+    2300126: Sphere025
+    2300128: Sphere026
+    2300130: Sphere027
+    2300132: Sphere028
+    2300134: Sphere029
+    2300136: Sphere030
+    2300138: Sphere031
+    2300140: Sphere032
+    2300142: Sphere033
+    2300144: Sphere034
+    2300146: Sphere035
+    2300148: Sphere036
+    2300150: Sphere037
+    2300152: Sphere038
+    2300154: Sphere039
+    2300156: Sphere040
+    2300158: Sphere041
+    2300160: Sphere042
+    2300162: Sphere043
+    2300164: Sphere044
+    2300166: Sphere045
+    2300168: Sphere046
+    2300170: Sphere047
+    2300172: Sphere048
+    2300174: Sphere049
+    2300176: Sphere050
+    2300178: Sphere051
+    2300180: Sphere052
+    2300182: Sphere053
+    2300184: Sphere054
+    2300186: Sphere055
+    2300188: Sphere056
+    2300190: Sphere057
+    2300192: Sphere058
+    2300194: Sphere059
+    2300196: Sphere060
+    2300198: Sphere061
+    2300200: Sphere062
+    2300202: Sphere063
+    2300204: Sphere064
+    2300206: Sphere065
+    2300208: Sphere066
+    2300210: Sphere067
+    2300212: Sphere068
+    2300214: Sphere069
+    2300216: Sphere070
+    2300218: Sphere071
+    2300220: Sphere072
+    2300222: Sphere073
+    2300224: Sphere074
+    2300226: Sphere075
+    2300228: Sphere076
+    2300230: Sphere077
+    2300232: Sphere078
+    2300234: Sphere079
+    2300236: Sphere080
+    2300238: Sphere081
+    2300240: Sphere082
+    2300242: Sphere083
+    2300244: Sphere084
+    2300246: Sphere085
+    2300248: Sphere086
+    2300250: Sphere087
+    2300252: Sphere088
+    2300254: Sphere089
+    2300256: Sphere090
+    2300258: Sphere091
+    2300260: Sphere092
+    2300262: Sphere093
+    2300264: Sphere094
+    2300266: Sphere095
+    2300268: Sphere096
+    2300270: Sphere097
+    2300272: Sphere098
+    2300274: Sphere099
+    2300276: Sphere100
+    2300278: Sphere101
+    2300280: Sphere102
+    2300282: Sphere103
+    2300284: Sphere104
+    2300286: Sphere105
+    2300288: Sphere106
+    2300290: Sphere107
+    2300292: Sphere108
+    2300294: Sphere109
+    2300296: Sphere110
+    2300298: Sphere111
+    2300300: Sphere112
+    2300302: Sphere113
+    2300304: Sphere114
+    2300306: Sphere115
+    2300308: Sphere116
+    2300310: Sphere117
+    2300312: Sphere118
+    2300314: Sphere119
+    2300316: Sphere120
+    2300318: Sphere121
+    2300320: Sphere122
+    2300322: Sphere123
+    2300324: Sphere124
+    2300326: Sphere125
+    2300328: Sphere126
+    2300330: Sphere127
+    2300332: Sphere128
+    2300334: Sphere129
+    2300336: Sphere130
+    2300338: Sphere131
+    3300000: main small spoon001
+    3300002: main small spoon002
+    3300004: main small spoon003
+    3300006: main small spoon004
+    3300008: main small spoon005
+    3300010: main small spoon006
+    3300012: main small spoon007
+    3300014: main small spoon008
+    3300016: main small spoon009
+    3300018: main small spoon010
+    3300020: main small spoon011
+    3300022: main small spoon012
+    3300024: main small spoon013
+    3300026: main small spoon014
+    3300028: main small spoon015
+    3300030: main small spoon016
+    3300032: main small spoon017
+    3300034: main small spoon018
+    3300036: main small spoon019
+    3300038: main small spoon020
+    3300040: main small spoon021
+    3300042: main small spoon022
+    3300044: main small spoon023
+    3300046: main small spoon024
+    3300048: main small spoon025
+    3300050: main small spoon026
+    3300052: main small spoon027
+    3300054: main small spoon028
+    3300056: main small spoon029
+    3300058: main small spoon030
+    3300060: main small spoon031
+    3300062: main small spoon032
+    3300064: main small spoon033
+    3300066: main small spoon034
+    3300068: main small spoon035
+    3300070: main small spoon036
+    3300072: main small spoon037
+    3300074: main small spoon038
+    3300076: main small spoon039
+    3300078: main small spoon040
+    3300080: main small spoon041
+    3300082: main small spoon042
+    3300084: main small spoon043
+    3300086: main small spoon044
+    3300088: Sphere006
+    3300090: Sphere007
+    3300092: Sphere008
+    3300094: Sphere009
+    3300096: Sphere010
+    3300098: Sphere011
+    3300100: Sphere012
+    3300102: Sphere013
+    3300104: Sphere014
+    3300106: Sphere015
+    3300108: Sphere016
+    3300110: Sphere017
+    3300112: Sphere018
+    3300114: Sphere019
+    3300116: Sphere020
+    3300118: Sphere021
+    3300120: Sphere022
+    3300122: Sphere023
+    3300124: Sphere024
+    3300126: Sphere025
+    3300128: Sphere026
+    3300130: Sphere027
+    3300132: Sphere028
+    3300134: Sphere029
+    3300136: Sphere030
+    3300138: Sphere031
+    3300140: Sphere032
+    3300142: Sphere033
+    3300144: Sphere034
+    3300146: Sphere035
+    3300148: Sphere036
+    3300150: Sphere037
+    3300152: Sphere038
+    3300154: Sphere039
+    3300156: Sphere040
+    3300158: Sphere041
+    3300160: Sphere042
+    3300162: Sphere043
+    3300164: Sphere044
+    3300166: Sphere045
+    3300168: Sphere046
+    3300170: Sphere047
+    3300172: Sphere048
+    3300174: Sphere049
+    3300176: Sphere050
+    3300178: Sphere051
+    3300180: Sphere052
+    3300182: Sphere053
+    3300184: Sphere054
+    3300186: Sphere055
+    3300188: Sphere056
+    3300190: Sphere057
+    3300192: Sphere058
+    3300194: Sphere059
+    3300196: Sphere060
+    3300198: Sphere061
+    3300200: Sphere062
+    3300202: Sphere063
+    3300204: Sphere064
+    3300206: Sphere065
+    3300208: Sphere066
+    3300210: Sphere067
+    3300212: Sphere068
+    3300214: Sphere069
+    3300216: Sphere070
+    3300218: Sphere071
+    3300220: Sphere072
+    3300222: Sphere073
+    3300224: Sphere074
+    3300226: Sphere075
+    3300228: Sphere076
+    3300230: Sphere077
+    3300232: Sphere078
+    3300234: Sphere079
+    3300236: Sphere080
+    3300238: Sphere081
+    3300240: Sphere082
+    3300242: Sphere083
+    3300244: Sphere084
+    3300246: Sphere085
+    3300248: Sphere086
+    3300250: Sphere087
+    3300252: Sphere088
+    3300254: Sphere089
+    3300256: Sphere090
+    3300258: Sphere091
+    3300260: Sphere092
+    3300262: Sphere093
+    3300264: Sphere094
+    3300266: Sphere095
+    3300268: Sphere096
+    3300270: Sphere097
+    3300272: Sphere098
+    3300274: Sphere099
+    3300276: Sphere100
+    3300278: Sphere101
+    3300280: Sphere102
+    3300282: Sphere103
+    3300284: Sphere104
+    3300286: Sphere105
+    3300288: Sphere106
+    3300290: Sphere107
+    3300292: Sphere108
+    3300294: Sphere109
+    3300296: Sphere110
+    3300298: Sphere111
+    3300300: Sphere112
+    3300302: Sphere113
+    3300304: Sphere114
+    3300306: Sphere115
+    3300308: Sphere116
+    3300310: Sphere117
+    3300312: Sphere118
+    3300314: Sphere119
+    3300316: Sphere120
+    3300318: Sphere121
+    3300320: Sphere122
+    3300322: Sphere123
+    3300324: Sphere124
+    3300326: Sphere125
+    3300328: Sphere126
+    3300330: Sphere127
+    3300332: Sphere128
+    3300334: Sphere129
+    3300336: Sphere130
+    3300338: Sphere131
+    4300000: Sphere006
+    4300002: Sphere007
+    4300004: Sphere008
+    4300006: Sphere009
+    4300008: Sphere010
+    4300010: Sphere011
+    4300012: Sphere012
+    4300014: Sphere013
+    4300016: Sphere014
+    4300018: Sphere015
+    4300020: Sphere016
+    4300022: Sphere017
+    4300024: Sphere018
+    4300026: Sphere019
+    4300028: Sphere020
+    4300030: Sphere021
+    4300032: Sphere022
+    4300034: Sphere023
+    4300036: Sphere024
+    4300038: Sphere025
+    4300040: Sphere026
+    4300042: main small spoon001
+    4300044: main small spoon002
+    4300046: main small spoon003
+    4300048: main small spoon004
+    4300050: main small spoon005
+    4300052: main small spoon006
+    4300054: main small spoon007
+    4300056: main small spoon008
+    4300058: main small spoon009
+    4300060: main small spoon010
+    4300062: main small spoon011
+    4300064: main small spoon012
+    4300066: main small spoon013
+    4300068: main small spoon014
+    4300070: main small spoon015
+    4300072: main small spoon016
+    4300074: main small spoon017
+    4300076: main small spoon018
+    4300078: main small spoon019
+    4300080: main small spoon020
+    4300082: main small spoon021
+    4300084: main small spoon022
+    4300086: Sphere027
+    4300088: Sphere028
+    4300090: Sphere029
+    4300092: Sphere030
+    4300094: Sphere031
+    4300096: Sphere032
+    4300098: Sphere033
+    4300100: Sphere034
+    4300102: Sphere035
+    4300104: Sphere036
+    4300106: Sphere037
+    4300108: Sphere038
+    4300110: Sphere039
+    4300112: Sphere040
+    4300114: Sphere041
+    4300116: Sphere042
+    4300118: Sphere043
+    4300120: Sphere044
+    4300122: Sphere045
+    4300124: Sphere046
+    4300126: Sphere047
+    4300128: Sphere048
+    4300130: Sphere049
+    4300132: Sphere050
+    4300134: Sphere051
+    4300136: Sphere052
+    4300138: Sphere053
+    4300140: Sphere054
+    4300142: Sphere055
+    4300144: Sphere056
+    4300146: Sphere057
+    4300148: Sphere058
+    4300150: Sphere059
+    4300152: Sphere060
+    4300154: Sphere061
+    4300156: Sphere062
+    4300158: Sphere063
+    4300160: Sphere064
+    4300162: Sphere065
+    4300164: Sphere066
+    4300166: Sphere067
+    4300168: Sphere068
+    4300170: Sphere069
+    4300172: Sphere070
+    4300174: Sphere071
+    4300176: Sphere072
+    4300178: Sphere073
+    4300180: Sphere074
+    4300182: Sphere075
+    4300184: Sphere076
+    4300186: Sphere077
+    4300188: Sphere078
+    4300190: Sphere079
+    4300192: Sphere080
+    4300194: Sphere081
+    4300196: Sphere082
+    4300198: Sphere083
+    4300200: Sphere084
+    4300202: Sphere085
+    4300204: Sphere086
+    4300206: Sphere087
+    4300208: Sphere088
+    4300210: Sphere089
+    4300212: Sphere090
+    4300214: Sphere091
+    4300216: Sphere092
+    4300218: Sphere093
+    4300220: Sphere094
+    4300222: Sphere095
+    4300224: Sphere096
+    4300226: Sphere097
+    4300228: Sphere098
+    4300230: Sphere099
+    4300232: Sphere100
+    4300234: Sphere101
+    4300236: Sphere102
+    4300238: Sphere103
+    4300240: Sphere104
+    4300242: Sphere105
+    4300244: Sphere106
+    4300246: Sphere107
+    4300248: Sphere108
+    4300250: Sphere109
+    4300252: Sphere110
+    4300254: Sphere111
+    4300256: Sphere112
+    4300258: Sphere113
+    4300260: Sphere114
+    4300262: Sphere115
+    4300264: Sphere116
+    4300266: Sphere117
+    4300268: Sphere118
+    4300270: Sphere119
+    4300272: Sphere120
+    4300274: Sphere121
+    4300276: Sphere122
+    4300278: Sphere123
+    4300280: Sphere124
+    4300282: Sphere125
+    4300284: Sphere126
+    4300286: Sphere127
+    4300288: Sphere128
+    4300290: Sphere129
+    4300292: Sphere130
+    4300294: Sphere131
+    4300296: main small spoon023
+    4300298: main small spoon024
+    4300300: main small spoon025
+    4300302: main small spoon026
+    4300304: main small spoon027
+    4300306: main small spoon028
+    4300308: main small spoon029
+    4300310: main small spoon030
+    4300312: main small spoon031
+    4300314: main small spoon032
+    4300316: main small spoon033
+    4300318: main small spoon034
+    4300320: main small spoon035
+    4300322: main small spoon036
+    4300324: main small spoon037
+    4300326: main small spoon038
+    4300328: main small spoon039
+    4300330: main small spoon040
+    4300332: main small spoon041
+    4300334: main small spoon042
+    4300336: main small spoon043
+    4300338: main small spoon044
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
