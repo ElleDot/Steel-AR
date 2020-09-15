@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/ModelViewer.unity
     guid: ed7d12ad7c4254df1a4bc7323f7a9784
+  - enabled: 1
+    path: Assets/Scenes/SettingsScreen.unity
+    guid: 3409378c6b3344b039a90200c7ef10b6
   m_configObjects: {}

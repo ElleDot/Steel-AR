@@ -17,8 +17,8 @@ MonoBehaviour:
     ufoLicenseKey: QVVpRlRpMy8vLy8vQUFBQUtGTjZlUmtOSjBWZ28vai9mT2ZLa0xzejlROTFyWEpZR1FTeXdlVy9ENnV3WU9jWXBGU2lIR3RBZWdCZlBZVER6L2dnVWU2T1hDclV2SnFoZEpwQSs1dzFoM2czL1RzMDZCYXp1djFkc2pBdjhxUFNRV1FDR2lvZFh5N1dZK3dpMXd3L2g5SHJEaHdSVzl5WjBJVHo1dWVKSkljbEpuVDB6SUg1L2w5TEljTUpFOXNXRE9veWVEZ3lCQVNrSVdxZHJJZmlmcmdxV0tHeEwvV1k0WDNlYXg1ZTFwVGlQT3UxT2ZjenVJNzJ2WGJ5T0V1SGI4aVlCQ0ZVZVZBUW1mdnpyQk1uaWZvYTJleTZWNU9GVEc1VFhiQnNLT2pZT29xeDFFMUdYVk1HK1l5c2N2cWk4Z1FaaU13VDY1b3crM05aM3N3RVBadStodEV6UDFoRkc5SWRhODA0NXkrN0Z3WUQ1YzRwOHh2MW1YdW0=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
-    maxSimultaneousObjectTargets: 1
+    maxSimultaneousImageTargets: 3
+    maxSimultaneousObjectTargets: 3
     useDelayedLoadingObjectTargets: 0
     version: 8.1.10
     eulaAcceptedVersions: '{"Values":["7.5","8.1","8.5"]}'
@@ -64,6 +64,6 @@ MonoBehaviour:
     autoInitTracker: 0
     autoStartTracker: 0
   webcam:
-    deviceNameSetInEditor: 
+    deviceNameSetInEditor: "Microsoft\xAE LifeCam HD-3000 #2"
     turnOffWebCam: 0
     renderTextureLayer: 30

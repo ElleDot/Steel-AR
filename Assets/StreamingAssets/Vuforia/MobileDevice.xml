@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="backtothefuture" size="1.000000 1.514444" />
+    <ImageTarget name="oils" size="1.000000 0.666667" />
+    <ImageTarget name="heater" size="1.000000 1.153963" />
     <ImageTarget name="cutleryd" size="1.000000 2.000000" />
-    <ImageTarget name="bttf" size="1.000000 0.456476" />
     <ImageTarget name="Former_Kenyons_Precision_Grindings_Factory" size="1.000000 0.750000" />
     <ImageTarget name="alpaca" size="1.000000 1.414516" />
     <ImageTarget name="peugeot" size="0.300000 0.175000" />

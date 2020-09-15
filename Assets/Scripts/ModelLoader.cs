@@ -93,6 +93,14 @@ public class ModelLoader : MonoBehaviour {
             infoModelName.text = "DeLorean";
             infoAuthorName.text = "Melvyn Ternan";
             infoDescription.text = "A real throwback to the future. This model was created by Melvyn from the SteelAR team, and was hand-scanned into a 3D model!";
+
+        } else if (modelName == "heater") {
+
+            modelNameLabel.text = "Space Heater";
+            modelAuthorLabel.text = "By Elle Agars-Smith";
+            infoModelName.text = "Space Heater";
+            infoAuthorName.text = "Elle Agars-Smith";
+            infoDescription.text = "This is a model of an old Master electric heater, bought from the office of from an old warehouse in Sheffield!";
         }
 
     }
@@ -121,7 +129,7 @@ public class ModelLoader : MonoBehaviour {
             // decreasing i
             for (float i = 1; i >= 0; i -= Time.deltaTime) {
 
-                infoBox.transform.position = Vector3.MoveTowards(infoBox.transform.position, cachedBoxOriginalPosition-downPos, 50 * 2f * Time.unscaledDeltaTime);
+                infoBox.transform.position = Vector3.MoveTowards(infoBox.transform.position, cachedBoxOriginalPosition-downPos, 50 * 3f * Time.unscaledDeltaTime);
                 alphaMod.alpha = i;
                 yield return null;
             }
@@ -135,7 +143,7 @@ public class ModelLoader : MonoBehaviour {
             // fade in
             for (float i = 0; i <= 1; i += Time.deltaTime) {
 
-                infoBox.transform.position = Vector3.MoveTowards(infoBox.transform.position, cachedBoxOriginalPosition, 50 * 2f * Time.unscaledDeltaTime);
+                infoBox.transform.position = Vector3.MoveTowards(infoBox.transform.position, cachedBoxOriginalPosition, 50 * 3f * Time.unscaledDeltaTime);
                 alphaMod.alpha = i;
                 yield return null;
             }
